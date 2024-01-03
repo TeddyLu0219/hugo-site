@@ -2,5 +2,8 @@
 
 baseURL = 'https://teddylu0219.github.io'
 languageCode = 'en-us'
-title = 'Hugo Book'
+title = "Teddy's Notes"
 theme = 'hugo-book'
+
+[params]
+    BookSearch = false
